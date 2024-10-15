@@ -9,6 +9,10 @@ body {
   max-width: 800px;
 }
 
+.hero {
+  background-color: #e5d9f2;
+}
+
 h1,
 h2,
 h3 {
